@@ -1,12 +1,12 @@
 {
-  "name": "SAHAS-MD",
+  "name": "Zeha-MD",
   "version": "1.0.0",
-  "description": "SAHAS-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
+  "description": "Zeha-MD By Lithika©",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SAHAS-MD",
-    "stop": "pm2 stop SAHAS-MD",
-    "restart": "pm2 restart SAHAS-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Zeha-MD",
+    "stop": "pm2 stop Zeha-MD",
+    "restart": "pm2 restart Zeha-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
